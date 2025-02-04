@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:59:19	5254/5254	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://education76.github.io/robots.txt		(from )
-17:59:20	13505/13505	---M-Z	200	added ('OK')	text/html	etag:W/%2266eec987-34c1%22	https://education76.github.io/g77/1v1-lol-3/	C:/My%20Web%20Sites/1v1-lol/education76.github.io/g77/1v1-lol-3/index.html	(from )
